@@ -1,5 +1,5 @@
 <decision-table52>
-  <tableName>13_Pants Length</tableName>
+  <tableName>13-Pants Length</tableName>
   <rowNumberCol>
     <hideColumn>false</hideColumn>
     <width>50</width>
@@ -145,7 +145,6 @@
     <list>
       <value>
         <valueNumeric class="int">1</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -156,7 +155,6 @@
       </value>
       <value>
         <valueNumeric class="int">351</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -189,7 +187,6 @@
     <list>
       <value>
         <valueNumeric class="int">2</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -200,7 +197,6 @@
       </value>
       <value>
         <valueNumeric class="int">350</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -233,7 +229,6 @@
     <list>
       <value>
         <valueNumeric class="int">3</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -244,7 +239,6 @@
       </value>
       <value>
         <valueNumeric class="int">349</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -277,7 +271,6 @@
     <list>
       <value>
         <valueNumeric class="int">4</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -288,7 +281,6 @@
       </value>
       <value>
         <valueNumeric class="int">348</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -321,7 +313,6 @@
     <list>
       <value>
         <valueNumeric class="int">5</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -332,7 +323,6 @@
       </value>
       <value>
         <valueNumeric class="int">347</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -365,7 +355,6 @@
     <list>
       <value>
         <valueNumeric class="int">6</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -376,7 +365,6 @@
       </value>
       <value>
         <valueNumeric class="int">346</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -409,7 +397,6 @@
     <list>
       <value>
         <valueNumeric class="int">7</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -420,7 +407,6 @@
       </value>
       <value>
         <valueNumeric class="int">345</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -453,7 +439,6 @@
     <list>
       <value>
         <valueNumeric class="int">8</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -464,7 +449,6 @@
       </value>
       <value>
         <valueNumeric class="int">344</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -497,7 +481,6 @@
     <list>
       <value>
         <valueNumeric class="int">9</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -508,7 +491,6 @@
       </value>
       <value>
         <valueNumeric class="int">343</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -541,7 +523,6 @@
     <list>
       <value>
         <valueNumeric class="int">10</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
@@ -552,7 +533,6 @@
       </value>
       <value>
         <valueNumeric class="int">342</valueNumeric>
-        <valueString></valueString>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </value>
