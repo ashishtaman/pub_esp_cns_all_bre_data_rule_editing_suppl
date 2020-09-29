@@ -1,5 +1,5 @@
 <org.drools.workbench.models.guided.dtable.shared.model.GuidedDecisionTable52>
-  <tableName>6-PurMth_City</tableName>
+  <tableName>Purchase Method Update (April-May 2020)</tableName>
   <rowNumberCol>
     <hideColumn>false</hideColumn>
     <width>-1</width>
@@ -44,26 +44,34 @@
         <org.drools.workbench.models.guided.dtable.shared.model.ConditionCol52>
           <hideColumn>false</hideColumn>
           <width>100</width>
-          <header>Howpurch : data_purchase_method in</header>
-          <constraintValueType>1</constraintValueType>
-          <factField>data_purchase_method</factField>
+          <header>Data_ppmonth &gt;</header>
+          <constraintValueType>3</constraintValueType>
+          <factField>data_ppmonth</factField>
           <fieldType>java.math.BigDecimal</fieldType>
-          <operator>in</operator>
+          <operator>&gt;</operator>
+        </org.drools.workbench.models.guided.dtable.shared.model.ConditionCol52>
+        <org.drools.workbench.models.guided.dtable.shared.model.ConditionCol52>
+          <hideColumn>false</hideColumn>
+          <width>100</width>
+          <header>data_ppmonth equals</header>
+          <constraintValueType>1</constraintValueType>
+          <factField>data_ppmonth</factField>
+          <fieldType>java.math.BigDecimal</fieldType>
+          <operator>==</operator>
+        </org.drools.workbench.models.guided.dtable.shared.model.ConditionCol52>
+        <org.drools.workbench.models.guided.dtable.shared.model.ConditionCol52>
+          <hideColumn>false</hideColumn>
+          <width>100</width>
+          <header>panelist_panelist_id equals</header>
+          <constraintValueType>1</constraintValueType>
+          <factField>panelist_panelist_id</factField>
+          <fieldType>java.math.BigDecimal</fieldType>
+          <operator>==</operator>
         </org.drools.workbench.models.guided.dtable.shared.model.ConditionCol52>
       </conditions>
     </org.drools.workbench.models.guided.dtable.shared.model.Pattern52>
   </conditionPatterns>
-  <actionCols>
-    <org.drools.workbench.models.guided.dtable.shared.model.ActionSetFieldCol52>
-      <hideColumn>false</hideColumn>
-      <width>100</width>
-      <header>Citypurchase : Data_npd_attr_2</header>
-      <boundName>data</boundName>
-      <factField>data_npd_attr_2</factField>
-      <type>java.math.BigDecimal</type>
-      <update>true</update>
-    </org.drools.workbench.models.guided.dtable.shared.model.ActionSetFieldCol52>
-  </actionCols>
+  <actionCols/>
   <imports>
     <imports>
       <org.kie.soup.project.datamodel.imports.Import>
@@ -82,28 +90,31 @@
         <isOtherwise>false</isOtherwise>
       </org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
       <org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
-        <valueString>Rule_9_6-PurMth_City_case_1_Product/RS - Citypurch</valueString>
+        <valueString>Rule_19_Purchase Method Update (April-May 2020)_case_1</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
       <org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
-        <valueNumeric class="int">80179</valueNumeric>
+        <valueNumeric class="int">1</valueNumeric>
         <dataType>NUMERIC_INTEGER</dataType>
         <isOtherwise>false</isOtherwise>
       </org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
       <org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
-        <valueString>execute_rule_9</valueString>
+        <valueString>execute_rule_19</valueString>
         <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
       <org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
-        <valueString>1278005043 , 1278005041</valueString>
-        <dataType>STRING</dataType>
-        <isOtherwise>false</isOtherwise>
-      </org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
-      <org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
-        <valueNumeric class="big-decimal">1278021319</valueNumeric>
+        <valueNumeric class="big-decimal">0</valueNumeric>
         <dataType>NUMERIC_BIGDECIMAL</dataType>
+        <isOtherwise>false</isOtherwise>
+      </org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
+      <org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
+        <dataType>STRING</dataType>
+        <isOtherwise>false</isOtherwise>
+      </org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
+      <org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
+        <dataType>STRING</dataType>
         <isOtherwise>false</isOtherwise>
       </org.drools.workbench.models.guided.dtable.shared.model.DTCellValue52>
     </list>
